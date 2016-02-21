@@ -4,11 +4,18 @@
         <description><![CDATA[HiLife]]></description>
         <link>https://thegrid.ai/hilife/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 10:43:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 10:43:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hilife/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Stilt gigs]]></title>
+            <description><![CDATA[<article><h1>Stilt gigs</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd6ef8faac8f0c8995f4adf790ef99b8fe73287b.png"></article>]]></description>
+            <link>https://thegrid.ai/hilife/stilt-gigs/index.html</link>
+            <guid isPermaLink="false">c179a9da-ac25-466c-8d51-242b8a970d3f</guid>
+            <pubDate>Sun, 21 Feb 2016 10:42:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Christmas gigs]]></title>
-            <description><![CDATA[<article><h1>Christmas gigs</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9216d367323b65f3f750cef9cad907049bc1da4a.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Christmas gigs</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d9f7ad886a40c9143c20c349c18ad6ce52633d7.png"></article>]]></description>
             <link>https://thegrid.ai/hilife/christmas-gigs/index.html</link>
             <guid isPermaLink="false">e4792eb9-dbb3-4e76-a9c1-7c82bac18a40</guid>
             <pubDate>Sun, 21 Feb 2016 10:42:14 GMT</pubDate>
