@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[HiLife]]></title>
         <description><![CDATA[HiLife]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hilife/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 10:42:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 10:42:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hilife/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fun gigs]]></title>
+            <description><![CDATA[<article><h1>Fun gigs</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/047dfeb77b63c70cce26f5b508f3239e9877246a.png"></article>]]></description>
+            <link>https://thegrid.ai/hilife/fun-gigs/index.html</link>
+            <guid isPermaLink="false">c9dc7ee7-91be-4660-9f64-aa362f147d55</guid>
+            <pubDate>Sun, 21 Feb 2016 10:42:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cricket gigs]]></title>
             <description><![CDATA[<article><h1>Cricket gigs</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ad91d3792b5b17d7f319324e20ceea480b73d85.png"></article>]]></description>
-            <link>undefinedcricket-gigs/index.html</link>
+            <link>https://thegrid.ai/hilife/cricket-gigs/index.html</link>
             <guid isPermaLink="false">ba26620f-67fa-42ff-98c6-fff7742ede60</guid>
             <pubDate>Sun, 21 Feb 2016 10:42:14 GMT</pubDate>
         </item>
